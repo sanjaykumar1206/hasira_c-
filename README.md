@@ -82,6 +82,6 @@ The program uses BigInteger to handle very large numbers.
 
 Author
 
-Your Name: Uma Maheswara Rao Sada
+Your Name: sanjay kumar yadla
 Course / Year: Final Year, 2026
 Assignment: Hashira Placements Assignment – Polynomial Secret Finder
